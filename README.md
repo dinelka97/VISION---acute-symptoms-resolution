@@ -4,6 +4,8 @@ VISION was an observational study conducted in North Carolina surveying adults o
 
 This repository contains code from the analysis performed. Data and outputs will be uploaded here once related papers have been published.
 
+There is a work-in progress (not uploaded as yet) Makefile to help with reproducibility in the results.
+
 
 
 
